@@ -35,19 +35,16 @@ Eight specialist visualisations, two dashboards, and two story points designed f
 ## Dashboard Screenshots
 
 ### Dashboard 1 — Global Oncology Research & Success Intelligence Suite
-![Global Dashboard Overview](Images/Global Distribution of Clinical Trials Dashboard.png)
 *Executive command centre: Global Footprint Map (master geographic filter), Predictive Success Probability Heatmap, Portfolio Status Audit across 38,900 trials, Oncology Research Growth Trend, and Top Sponsors by Trial Volume. Clicking a country on the map triggers a global filter that instantly recalibrates all other views for that region.*
 
 ---
 
 ### Dashboard 2 — Operational Performance & Site Clustering
-![Operational Risk Dashboard](Images/Operational Performace and Site Clustering Dashboard.png)
 *Operational deep-dive for project managers: Strategic Phase Maturation box plot (log scale), Predictive Site Performance scatter (enrollment vs. duration with linear trend benchmark), and the TabPy-powered Efficiency Density Heat Map showing the 825 At Risk trials in real-time RAG classification.*
 
 ---
 
 ### Portfolio Status Audit
-![Portfolio Status Audit](images/portfolio_audit.png)
 *38,900 trials structured by study status: 17,064 Completed, 6,779 Recruiting, 4,320 Terminated. The donut anchor acts as the mathematical zero point against which all model-driven probabilities are benchmarked.*
 
 ---
